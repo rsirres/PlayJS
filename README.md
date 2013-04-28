@@ -12,8 +12,8 @@ Full Stack MVC framework:
     more comming soon...
     
 License
-
 =======
+
 (The MIT License)
 
 Copyright (c) 2013 Sirres Raphael
