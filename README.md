@@ -9,7 +9,11 @@ Full Stack MVC framework:
     ExpressJS
     ExpressJS-Load
     SequelizeJS
-    more comming soon...
+    more coming soon...
+
+Todo:
+    - Documentation
+    - CLI ( model, controller, folder etc generator)
     
 License
 =======
