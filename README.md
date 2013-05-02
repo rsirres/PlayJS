@@ -12,8 +12,9 @@ Full Stack MVC framework:
     more coming soon...
 
 Todo:
-    - Documentation
-    - CLI ( model, controller, folder etc generator)
+    
+    Documentation
+    CLI ( model, controller, folder etc generator)
     
 License
 =======
